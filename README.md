@@ -8,4 +8,4 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Rohan5manza&theme=midnight-purple&show_icons=true&count_private=true)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan5manza)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohan5manza)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Rohan5manza&theme=violet-dark&hide_border=true)](https://git.io/streak-stats)
