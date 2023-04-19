@@ -2,7 +2,7 @@
 
 
 -    I’m currently working on several coding projects and ideas that take my fancy.
--    Entrepreneurship is my passion. Co-founder of NeuroWorks, my first start-up that creates user-friendly low-code and no-code machine learning tools for      beginners in the field. 
+-    Entrepreneurship is my passion. 
 -    I am an avid fan of theoretical modern physics, including general relativity and quantum mechanics
 -    I believe in the science of observation and deduction.
 -    Pursuing Artificial Intelligence and Theoretical Computer Science.
