@@ -6,7 +6,7 @@
 -    I am an avid fan of theoretical modern physics, including general relativity and quantum mechanics
 -    Pursuing Artificial Intelligence and Theoretical Computer Science. Hobbyist in IoT, digital electronics and computer architecture. Like to read about 
      nanotechnology, robotics, materials science.
--    Computers are my passion. My ambition is to use my knowledge to create new revolutionary technology in future.
+-    My ambition is to use my knowledge to create new revolutionary technology in future.
 -    To know more about me, check out my website: www.sherlockholmeslab.online . Backup link : https://the-algorithmic-investigator.000webhostapp.com/
 -    Follow my socials using : https://linktr.ee/rohanmarar5    
 
