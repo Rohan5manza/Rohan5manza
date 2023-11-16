@@ -2,7 +2,7 @@
 
 
 -    I'm currently working on a few projects and ideas that interest me.
--    Entrepreneurship is my passion. 
+-    My goal is to be an entrepreneur.
 -    I am an avid fan of theoretical modern physics, including general relativity and quantum mechanics
 -    Pursuing Artificial Intelligence and Theoretical Computer Science. Hobbyist in IoT, digital electronics and computer architecture. Like to read about 
      nanotechnology, robotics, materials science.
