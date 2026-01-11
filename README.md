@@ -1,10 +1,8 @@
 ### Hi, my name is Rohan Marar
 
 
--    I'm currently working on a few projects and ideas that interest me.
--    I'm an avid fan of theoretical modern physics, including general relativity and quantum mechanics
--    Pursuing Artificial Intelligence and theoretical Computer Science. Hobbyist in homelab server management and IT infrastructure, digital electronics and computer architecture. Like to read about 
-     nanotechnology, robotics,IoT, materials science, and stock investing.
+-    I'm an AI engineer. I like to think of myself as thr Algorithmic Alchemist: someone who treats AI, math and code as tools to solve mysteries, find hidden patterns, and build cool apps by trying out new recipes, and turn raw data into valuable insights. 
+-    I'm an avid fan of theoretical modern physics, including general relativity and quantum mechanics.
 -    My ambition is to use my knowledge to create new revolutionary technology in future.
 -    To know more about me,Follow my socials: https://linktr.ee/rohanmarar5    
 
