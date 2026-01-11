@@ -1,7 +1,7 @@
-### Hi, my name is Rohan Marar
+### Hi. I am Rohan Marar. 
 
 
--    I'm an AI engineer. I like to think of myself as thr Algorithmic Alchemist: someone who treats AI, math and code as tools to solve mysteries, find hidden patterns, and build cool apps by trying out new recipes, and turn raw data into valuable insights. 
+-    I'm an AI engineer. I like to think of myself as thr Algorithmic Alchemist: someone who treats AI, math and code as tools to solve mysteries, find hidden patterns, and build cool apps by trying out new recipes.
 -    I'm an avid fan of theoretical modern physics, including general relativity and quantum mechanics.
 -    My ambition is to use my knowledge to create new revolutionary technology in future.
 -    To know more about me,Follow my socials: https://linktr.ee/rohanmarar5    
