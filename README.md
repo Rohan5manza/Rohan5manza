@@ -6,5 +6,5 @@
 -    My ambition is to use my knowledge to create new revolutionary technology in future.
 -    To know more about me,Follow my socials: https://linktr.ee/rohanmarar5    
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Rohan5manza&theme=midnight-purple)](https://git.io/streak-stats)
 
