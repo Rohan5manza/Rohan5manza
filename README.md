@@ -50,14 +50,14 @@ class Rohan:
 
 ---
 
-## `# authored_books`
+## `// authored_books`
 
 > *Self-published on Amazon. Fiction, non-fiction, philosophy, and one deep-learning textbook.*
 
 | | Title | Genre |
 |---|---|---|
 | 📘 | **[Deep Learning Deciphered](https://a.co/d/cicW5BO)** — neural networks explained through the lens of Sherlock Holmes | Technical |
-| 🔍 | **[Grounds For Suspicion: A Julius Brandt Murder Mystery](https://www.amazon.com/Grounds-Suspicion-Julius-Brandt-Mystery/dp/B0GX9XLZZ9)** — a murder mystery whodunit in the spirit of the classics | Mystery |
+| 🔍 | **[Grounds For Suspicion: A Julius Brandt Murder Mystery](https://www.amazon.com/Grounds-Suspicion-Julius-Brandt-Mystery/dp/B0GX9XLZZ9)** — a whodunit in the spirit of the classics | Mystery |
 | 💱 | **[The Incentive Engine: Capitalism Works (Yes, Really)](https://a.co/d/epMzRQk)** — three rivals, one collapsing reserve currency, the universe as a balance sheet | Sci-Fi |
 | 🐢 | **[Achilles and the Tortoise: Dialogues on a Godless Universe](https://a.co/d/0guw64V)** — faith vs. science, in the spirit of classic philosophical dialogues | Philosophy |
 
