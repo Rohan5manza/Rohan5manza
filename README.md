@@ -9,13 +9,13 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `> the algorithmic alchemist_`
+### `> the algorithmic alchemist`
 
-[![Website](https://img.shields.io/badge/rohanmarar.com-00FF41?style=for-the-badge&logo=firefox&logoColor=black)](https://www.rohanmarar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-00FF41?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rohan-marar-77515a1bb/)
-[![YouTube](https://img.shields.io/badge/YouTube-00FF41?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@rohan_marar)
-[![Instagram](https://img.shields.io/badge/Instagram-00FF41?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rohan__marar/)
-[![Email](https://img.shields.io/badge/Email-00FF41?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rohanmarar5manza@gmail.com)
+[![Website](https://img.shields.io/badge/rohanmarar.com-a34ef3?style=for-the-badge&logo=firefox&logoColor=black)](https://www.rohanmarar.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-a34ef3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rohan-marar-77515a1bb/)
+[![YouTube](https://img.shields.io/badge/YouTube-a34ef3?style=for-the-badge&logo=youtube&logoColor=black)](https://youtube.com/@rohan_marar)
+[![Instagram](https://img.shields.io/badge/Instagram-a34ef3?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/rohan__marar/)
+[![Email](https://img.shields.io/badge/Email-a34ef3?style=for-the-badge&logo=gmail&logoColor=black)](mailto:rohanmarar5manza@gmail.com)
 
 </div>
 
