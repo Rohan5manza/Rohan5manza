@@ -26,15 +26,15 @@
 
 class Rohan:
     role        = "AI Engineer & Author"
+    school      = "MS in Artificial Intelligence @ SUNY Buffalo"
     based_in    = "wherever curiosity takes me"
-    obsessed_by = ["neural nets", "general relativity", "quantum mechanics",
-                   "first-principles thinking", "the path to AGI"]
-    builds      = ["AI products", "books", "homelab infra", "high-protein meals"]
+    obsessed_by = ["neural networks", "deep learning", "computers", "general relativity", "quantum mechanics", "first-principles thinking", "the path to AGI"]
+    builds      = ["AI products", "software apps", "books", "homelab infra"]
     motto       = "obsession > motivation"
 ```
 
 > *I treat AI, math, and code as tools to solve mysteries, find hidden patterns,*
-> *and build cool things by trying new recipes. I don't chase motivation —*
+> *and build cool things by trying out new stuff. I don't chase motivation —*
 > *I run on obsession, ambition, and a refusal to settle for mediocre.*
 
 ---
@@ -44,15 +44,15 @@ class Rohan:
 ```diff
 + Cadence            → a new iOS app coming soon.
 + Homelab v2         → more self-hosted services, deeper devops
-+ Research rabbit    → obsessing over the AGI / tech-singularity question
-+ Writing            → my next book 
++ Research rabbit    → obsessing over frontier AI breakthroughs
++ Writing            → my next book
 ```
 
 ---
 
 ## `// authored_books`
 
-> *Self-published on Amazon. Fiction, non-fiction, philosophy, and one deep-learning textbook.*
+> *Self-published on Amazon. Fiction, non-fiction, philosophy, and one deep learning textbook.*
 
 | | Title | Genre |
 |---|---|---|
@@ -66,7 +66,7 @@ class Rohan:
 ## `// featured_projects`
 
 ### 🥗 [Bulkbites](https://play.google.com/store/apps/details?id=com.tensorbuilds.bulkbites)
-AI-powered nutrition app for Android. Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
+AI-powered nutrition app for Android. Check it out on Google Play Store now! Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
 
 `PyTorch` · `Computer Vision` · `React Native` · `Oracle Cloud` · `Ubuntu`
 
