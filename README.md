@@ -120,7 +120,7 @@ data:         [NumPy, Pandas, MongoDB]
 <div align="center">
 
 ```
-> "the universe is a balance sheet, and it's time for an audit"
+> "My dream is to build superintelligent AI systems that can recursively improve themselves and usher us into an age of unstoppable technology singularity"
 ```
 
 **`> end_of_transmission_`**
