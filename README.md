@@ -80,13 +80,6 @@ Object detection with transfer learning — experiments across pretrained models
 
 `PyTorch` · `YOLO-NAS` · `Transfer Learning`
 
-### 🤖 [Game-AI-MineRL-Malmo](https://github.com/Rohan5manza/Game-AI-MineRL-Malmo-)
-RL agent learning to play Minecraft.
-`Reinforcement Learning` · `MineRL` · `Malmo`
-
-### 🧠 [Generative-AI](https://github.com/Rohan5manza/Generative-AI)
-Collection of generative-AI projects, code, and learning materials.
-
 ---
 
 ## `// tech_stack`
