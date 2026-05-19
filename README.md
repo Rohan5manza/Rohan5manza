@@ -50,7 +50,7 @@ class Rohan:
 
 ---
 
-## `// authored_books`
+## `# authored_books`
 
 > *Self-published on Amazon. Fiction, non-fiction, philosophy, and one deep-learning textbook.*
 
@@ -66,7 +66,7 @@ class Rohan:
 ## `// featured_projects`
 
 ### 🥗 [Bulkbites](https://play.google.com/store/apps/details?id=com.tensorbuilds.bulkbites)
-AI-powered nutrition app for Android. Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** with co-founder Prathmesh Gawali — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
+AI-powered nutrition app for Android. Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
 
 `PyTorch` · `Computer Vision` · `React Native` · `Oracle Cloud` · `Ubuntu`
 
