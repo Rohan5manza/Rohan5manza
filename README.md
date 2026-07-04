@@ -65,6 +65,9 @@ class Rohan:
 
 ## `// featured_projects`
 
+### 📝 [Cadence](https://cadence.rohanmarar.com)
+Personalized research paper discovery platform. A "Spotify" for academia across multiple genres like CS, math, biology, economics, and so much more. This web app tracks your likes, saves and skips, and builds a highly accurate learned profile of your tastes and accordingly populates your feed with research papers you are more likely to enjoy reading, thus recommending you stuff according to what you like. 
+
 ### 🥗 [Bulkbites](https://play.google.com/store/apps/details?id=com.tensorbuilds.bulkbites)
 AI-powered nutrition app for Android. Check it out on Google Play Store now! Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
 
