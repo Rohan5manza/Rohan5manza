@@ -42,10 +42,10 @@ class Rohan:
 ## `// currently_working_on`
 
 ```diff
-+ Cadence            → a new iOS app coming soon.
++ Deep-dive autopsies→ debugging and optimizing my latest deployed models
 + Homelab v2         → more self-hosted services, deeper devops
 + Research rabbit    → obsessing over frontier AI breakthroughs
-+ Writing            → my next book
++ Writing            → my next book: Echoes in the Gradient
 ```
 
 ---
@@ -68,7 +68,7 @@ class Rohan:
 ### 🥗 [Bulkbites](https://play.google.com/store/apps/details?id=com.tensorbuilds.bulkbites)
 AI-powered nutrition app for Android. Check it out on Google Play Store now! Custom computer-vision models that identify **260+ foods in real time**, barcode scanner, meal planner generating across **2M+ recipes daily**, and full progress tracking. Built end-to-end under my startup **Tensorbuilds** — PyTorch models trained from scratch, React Native frontend, deployed on Oracle Cloud.
 
-`PyTorch` · `Computer Vision` · `React Native` · `Oracle Cloud` · `Ubuntu`
+`PyTorch` · `Computer Vision` · `React Native` · `Ubuntu`
 
 ### 🖥️ [Proxmox Homelab](https://www.rohanmarar.com/blog/homelab_v1)
 Personal homelab on bare-metal Proxmox. Self-hosted containers + VMs, reverse proxies, Cloudflare tunnels, SSL cert management, custom subdomain routing. A deep dive into the unglamorous side of devops.
