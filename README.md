@@ -34,7 +34,7 @@ class Rohan:
 ```
 
 > I build and ship reliable AI products end-to-end: from data pipelines and model training, to APIs, deployment, and observability.
-> I love to build cool things by trying out new stuff. —*
+> I love to build cool things by trying out new stuff.
 > I run on obsession, ambition, and a refusal to settle for mediocre.
 
 ---
