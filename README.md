@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝
 ```
 
-### `> the algorithmic alchemist`
+### `> AI Engineer`
 
 [![Website](https://img.shields.io/badge/rohanmarar.com-a34ef3?style=for-the-badge&logo=firefox&logoColor=black)](https://www.rohanmarar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-a34ef3?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/rohan-marar-77515a1bb/)
@@ -33,8 +33,8 @@ class Rohan:
     motto       = "obsession > motivation"
 ```
 
-> *I treat AI, math, and code as tools to solve mysteries, find hidden patterns,*
-> *and build cool things by trying out new stuff. I don't chase motivation —*
+> * I build and ship reliable AI products end-to-end: from data pipelines and model training, to APIs, deployment, and observability. *
+> I love to build cool things by trying out new stuff. —*
 > *I run on obsession, ambition, and a refusal to settle for mediocre.*
 
 ---
@@ -43,7 +43,7 @@ class Rohan:
 
 ```diff
 + Deep-dive autopsies→ debugging and optimizing my latest deployed models
-+ Homelab v2         → more self-hosted services, deeper devops
++ WatcherML          → My latest project: An open-source Recovery & Reliability Layer for ML experiments.
 + Research rabbit    → obsessing over frontier AI breakthroughs
 + Writing            → my next book: Echoes in the Gradient
 ```
@@ -64,6 +64,9 @@ class Rohan:
 ---
 
 ## `// featured_projects`
+
+### [WatcherML](https://watcherml.rohanmarar.com)
+WatcherML is the open-source reliability and recovery layer for ML training. It captures evidence, diagnoses failures, proposes bounded interventions, reruns controlled trials, and proves which change actually worked.
 
 ### 📝 [Cadence](https://cadence.rohanmarar.com)
 Personalized research paper discovery platform. A "Spotify" for academia across multiple genres like CS, math, biology, economics, and so much more. This web app tracks your likes, saves and skips, and builds a highly accurate learned profile of your tastes and accordingly populates your feed with research papers you are more likely to enjoy reading, thus recommending you stuff according to what you like. 
